@@ -37,8 +37,6 @@ __THEN__ I am logged out of the site and presented with a menu with the options 
 
 ## Database
 
-
-
 * Schemas directory:
     * index.js: Export your typeDefs and resolvers.
     * resolvers.js: Define the query and mutation functionality to work with the Mongoose models.
