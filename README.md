@@ -6,7 +6,9 @@ In this project I am practicing creating a MERN full stack project with GraphQL.
 
 ## Heroku Deployment
 
-Heroku stated that the build was successful but unfortunately it crashes in the logs. "error: MongoNetworkError: connect ECONNREFUSED 127.0.0.1:27017" is what seems to cause the crash.
+Heroku Deployment Link: https://stev232s-book-lookup.herokuapp.com/
+
+The link does not work. Heroku stated that the build was successful but unfortunately it crashes in the logs. "error: MongoNetworkError: connect ECONNREFUSED 127.0.0.1:27017" is what seems to cause the crash.
 
 ## Acceptance Criteria
 
