@@ -2,6 +2,13 @@
 
 ## Description
 
+In this project I am practicing creating a MERN full stack project with GraphQL. In the project I did updates to the code to allow it to useMutation and useQuery. In order to do this on the server side I needed to add typeDefs along with resolvers. while on the client side I needed to modify the javascript files in the pages folder along with the LoginForm and SignupForm components. Another thing that needed to be updated in to the App.js and server.js files were calls to Apollo in order to allow for the application to be measured in GraphQL.
+
+## Heroku Deployment
+
+Heroku Deployment Link: https://stev232s-book-lookup.herokuapp.com/
+
+The link does not work. Heroku stated that the build was successful but unfortunately it crashes in the logs. "error: MongoNetworkError: connect ECONNREFUSED 127.0.0.1:27017" is what seems to cause the crash.
 
 ## Acceptance Criteria
 
